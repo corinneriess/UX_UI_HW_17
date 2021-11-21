@@ -1,0 +1,159 @@
+.container {
+    color: #E5E5E5;
+    padding-bottom: 50px; 
+}
+
+.customNav {
+    padding: 10px; 
+    color: #002C23 !important;
+}
+
+.display-4 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align:right;
+    padding-top:100px;
+}
+
+.heading2 {
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #66887F !important;
+    color:#E5E5E5 !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100% !important;
+}
+
+.heading3 {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.heading4 {
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.CRlogo {
+    width:auto;
+    height: 50px;
+    
+}
+
+.customNav a {
+    color: #E5E5E5 !important;
+}
+
+
+.navbar-nav {
+    margin-left:auto;
+    margin-right: 0 !important;
+}
+
+.heroBackground {
+    background-image: url(../Images/HomePageHeroImage.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height: 580px;
+}
+
+.heroContent {
+    color:#002C23;
+    size: 48px;
+}
+
+.row {
+    display:flex;
+}
+.column1{
+    empty-cells: show;
+    padding-bottom: 30px;
+}
+.column2 {
+    font-size: 18px;
+    font-weight:normal;
+    width: 50%;
+    text-align: right;
+    padding-bottom: 30px;
+    position: relative;
+}
+
+.desktopHome {
+    height:auto;
+    width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.hodgePodge {
+    align-content: center;
+}
+
+.btnHP {
+    background-color: #66887F;
+    border-color: #E5E5E5;
+    color:#E5E5E5;
+    align-content: center;
+}
+.btnHP:hover {
+    background-color: #DAA520;
+    border-color: #002C23;
+    color:#002C23;
+    align-content: center;
+}
+
+.hodgePodgeSummary {
+    font-size: 18px;
+    font-weight:normal;
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.aeonSummary {
+    font-size: 18px;
+    font-weight:normal;
+    padding-right: 100px;
+    padding-top: 75px;
+    text-align: center;
+}
+
+.aeonOcean {
+    align-content: center;
+}
+
+.btnAO {
+    background-color: #66887F;
+    border-color: #E5E5E5;
+    color:#E5E5E5;
+    align-content: center;
+}
+.btnAO:hover {
+    background-color: #DAA520;
+    border-color: #002C23;
+    color:#002C23;
+    align-content: center;
+}
+
+.btnAddWRK {
+    background-color: #66887F;
+    border-color: #E5E5E5;
+    color:#E5E5E5;
+    margin:auto;
+}
+.btnAddWRK:hover {
+    background-color: #DAA520;
+    border-color: #002C23;
+    color:#002C23;
+}
